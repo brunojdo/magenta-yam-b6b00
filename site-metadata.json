@@ -1,7 +1,7 @@
 {
     "description": "Personal blogging theme for Stackbit",
     "layout_style": "overflow",
-    "palette": "rede",
+    "palette": "red",
     "header": {
         "title": "Bruno Dias",
         "tagline": "Engineering Manager",
