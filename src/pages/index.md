@@ -5,9 +5,12 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Bruno Dias.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      I work at [VTEX](http://careers.vtex.com/) for the past 3 years; I'm an
+      Engineering Manager work within Payments solutions of VTEX Platform. 
+
+
+      *Opinions are my own.*
     actions:
       - label: lorem-ipsum
         url: lorem-ipsum
