@@ -11,14 +11,7 @@ sections:
 
 
       *Opinions are my own.*
-    actions:
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        icon_class: lorem-ipsum
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
   - section_id: about
     type: section_content
     title: About
